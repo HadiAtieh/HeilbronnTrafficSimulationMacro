@@ -30,10 +30,10 @@ Pestalozzistraße | from 622113332 → 622113341
 Am Sülmertor | from 445401179 → 32683124
 Kreuzenstraße | from 445401179 → 535245618
 Saarlandstraße | from 21509915 → 21777104
-['Saarlandstraße', 'Peter-Bruckmann-Brücke'] | from 21509915 → 3834511299
+['Peter-Bruckmann-Brücke', 'Saarlandstraße'] | from 21509915 → 3834511299
 Unnamed | from 21777104 → 989198333
 Saarlandstraße | from 21777104 → 1535175072
-['Saarlandstraße', 'Peter-Bruckmann-Brücke'] | from 3834511299 → 21509915
+['Peter-Bruckmann-Brücke', 'Saarlandstraße'] | from 3834511299 → 21509915
 ['Fügerstraße', 'Karl-Nägele-Brücke'] | from 3834511299 → 2859281090
 Kalistraße | from 3834511299 → 1183810855
 Kreuzenstraße | from 21509927 → 432825468
@@ -100,7 +100,7 @@ Albertistraße | from 21722828 → 770692806
 Albertistraße | from 21722828 → 770692763
 Albertistraße | from 21722828 → 522244855
 Albertistraße | from 770692806 → 21722828
-['Paul-Metz-Brücke', 'Hafenstraße', 'Albertistraße'] | from 770692806 → 1524393195
+['Hafenstraße', 'Paul-Metz-Brücke', 'Albertistraße'] | from 770692806 → 1524393195
 Karl-Wüst-Straße | from 770692763 → 770692784
 Albertistraße | from 522244855 → 26787281
 Albertistraße | from 522244855 → 21722828
@@ -113,7 +113,7 @@ Hafenstraße | from 1556734092 → 21722860
 Kalistraße | from 1556734092 → 868355776
 ['Thomaswert', 'Wohlgelegen'] | from 1524393195 → 1183816283
 Hafenstraße | from 1524393195 → 21722860
-['Hafenstraße', 'Paul-Metz-Brücke', 'Albertistraße'] | from 1524393195 → 770692806
+['Paul-Metz-Brücke', 'Hafenstraße', 'Albertistraße'] | from 1524393195 → 770692806
 Wohlgelegen | from 868356327 → 1183816284
 Wohlgelegen | from 868356327 → 21722860
 Frankfurter Straße | from 21722881 → 21730383
@@ -129,12 +129,12 @@ Brackenheimer Straße | from 21722939 → 1855476510
 Brackenheimer Straße | from 1855476510 → 262688008
 Brackenheimer Straße | from 1855476510 → 1417061418
 Brackenheimer Straße | from 21722952 → 1855476520
-['Sontheimer Brücke', 'Brackenheimer Straße'] | from 21722952 → 21725812
+['Brackenheimer Straße', 'Sontheimer Brücke'] | from 21722952 → 21725812
 Viehweide | from 21722952 → 1558545590
 Brackenheimer Straße | from 1855476520 → 21722952
 Brackenheimer Straße | from 1855476520 → 1417061420
 Brackenheimer Straße | from 1855476520 → 694707142
-['Sontheimer Brücke', 'Brackenheimer Straße'] | from 21725812 → 21722952
+['Brackenheimer Straße', 'Sontheimer Brücke'] | from 21725812 → 21722952
 Brackenheimer Straße | from 21725812 → 25320556
 Viehweide | from 1558545590 → 1855476520
 Viehweide | from 1558545590 → 1558545750
@@ -146,7 +146,7 @@ Knorrstraße | from 1305814642 → 21725720
 Werderstraße | from 1305814642 → 1305814520
 Knorrstraße | from 1305814642 → 773963957
 Knorrstraße | from 30040057 → 21725720
-['Neckarhalde', 'Knorrstraße'] | from 30040057 → 245964069
+['Knorrstraße', 'Neckarhalde'] | from 30040057 → 245964069
 Schoettlestraße | from 30040057 → 1304947201
 Besigheimer Straße | from 24950703 → 343780224
 Liebigstraße | from 24950703 → 24952646
@@ -321,12 +321,12 @@ Mozartstraße | from 25231697 → 25231953
 Mozartstraße | from 25231697 → 1558546013
 Frankfurter Straße | from 25231697 → 21756477
 Frankfurter Straße | from 25231697 → 21730400
-['Badstraße', 'Halbmondstraße'] | from 21730406 → 975114006
+['Halbmondstraße', 'Badstraße'] | from 21730406 → 975114006
 Frankfurter Straße | from 21730406 → 21756477
 Frankfurter Straße | from 21730406 → 81696989
 ['Kaiser-Friedrich-Platz', 'Holzstraße'] | from 975114006 → 21777389
 Badstraße | from 975114006 → 21992484
-['Badstraße', 'Halbmondstraße'] | from 975114006 → 21730406
+['Halbmondstraße', 'Badstraße'] | from 975114006 → 21730406
 Frankfurter Straße | from 21756477 → 25231697
 Olgastraße | from 21756477 → 25231962
 Frankfurter Straße | from 21756477 → 21730406
@@ -365,7 +365,7 @@ Neckartalstraße | from 3066540533 → 695065567
 Neckartalstraße | from 3066540533 → 21740384
 Neue Straße | from 21740388 → 21740389
 Neue Straße | from 21740388 → 338803972
-['Dorfplatz', 'Neue Straße'] | from 21740389 → 21740392
+['Neue Straße', 'Dorfplatz'] | from 21740389 → 21740392
 Bauernstraße | from 21740389 → 255722444
 Neue Straße | from 338803972 → 21740388
 Neue Straße | from 338803972 → 25320551
@@ -445,14 +445,14 @@ Weipertstraße | from 1556733995 → 535269769
 Europaplatz | from 1556733995 → 1556734000
 Ludwigsburger Straße | from 21755131 → 2579866936
 Klingenberger Straße | from 21755131 → 21755135
-['Ludwigsburger Straße', 'Theodor-Heuss-Straße'] | from 21755131 → 265434773
+['Theodor-Heuss-Straße', 'Ludwigsburger Straße'] | from 21755131 → 265434773
 Ludwigsburger Straße | from 2579866936 → 254991314
 Ludwigsburger Straße | from 2579866936 → 21755131
 Klingenberger Straße | from 2579866936 → 21755135
 Klingenberger Straße | from 21755135 → 305264409
 Felsenstraße | from 265434773 → 264285310
 Theodor-Heuss-Straße | from 265434773 → 264285315
-['Ludwigsburger Straße', 'Theodor-Heuss-Straße'] | from 265434773 → 21755131
+['Theodor-Heuss-Straße', 'Ludwigsburger Straße'] | from 265434773 → 21755131
 Jäkleinstraße | from 305264409 → 25711082
 Klingenberger Straße | from 305264409 → 25320536
 Kappelstraße | from 21755151 → 94648008
@@ -661,7 +661,7 @@ Ehrlichstraße | from 1132413079 → 21777880
 Friedenstraße | from 21778036 → 1552848580
 Friedenstraße | from 21778036 → 26784658
 Blumhardtstraße | from 21778036 → 24911578
-['Stedinger Straße', 'Blumhardtstraße', 'Eisenbahnstraße'] | from 21778036 → 21990897
+['Stedinger Straße', 'Eisenbahnstraße', 'Blumhardtstraße'] | from 21778036 → 21990897
 Eppinger Straße | from 1552848580 → 24942569
 Eppinger Straße | from 1552848580 → 94584768
 Friedenstraße | from 1552848580 → 94655047
@@ -671,7 +671,7 @@ Heinrichstraße | from 26784658 → 21860635
 Schuchmannstraße | from 26784658 → 1558545850
 Stedinger Straße | from 21990897 → 1558545828
 Rathausstraße | from 21990897 → 338803972
-['Stedinger Straße', 'Blumhardtstraße', 'Eisenbahnstraße'] | from 21990897 → 21778036
+['Stedinger Straße', 'Eisenbahnstraße', 'Blumhardtstraße'] | from 21990897 → 21778036
 Dinkelsbühler Straße | from 90465723 → 21778193
 Dinkelsbühler Straße | from 90465723 → 90465708
 Nördlinger Straße | from 90465723 → 373408489
@@ -783,7 +783,7 @@ Paul-Göbel-Straße | from 1059952633 → 1059989215
 Paul-Göbel-Straße | from 1059952633 → 1561854867
 Sichererstraße | from 23715513 → 96031808
 Paul-Göbel-Straße | from 23715513 → 535188984
-['Dammstraße', 'Nordstraße'] | from 96031808 → 96032049
+['Nordstraße', 'Dammstraße'] | from 96031808 → 96032049
 Nordstraße | from 96031808 → 31150591
 Sichererstraße | from 96031808 → 96032046
 Sichererstraße | from 96031808 → 23715513
@@ -806,13 +806,13 @@ Jägerhausstraße | from 94071533 → 11150211508
 Schirrmannstraße | from 94071533 → 1030983765
 Jägerhausstraße | from 94071533 → 23741810
 Siebennussbaumstraße | from 23742334 → 29089769
-['Jägerhausstraße', 'Bismarckstraße'] | from 23742334 → 1348261476
+['Bismarckstraße', 'Jägerhausstraße'] | from 23742334 → 1348261476
 Jägerhausstraße | from 23742334 → 30050052
 ['Siebennussbaumstraße', 'Karlstraße'] | from 29089769 → 29089782
 Siebennussbaumstraße | from 29089769 → 1348261476
 Jägerhausstraße | from 29089769 → 1783676969
 Bismarckstraße | from 1348261476 → 1561447061
-['Jägerhausstraße', 'Bismarckstraße'] | from 1348261476 → 23742334
+['Bismarckstraße', 'Jägerhausstraße'] | from 1348261476 → 23742334
 Bismarckstraße | from 23742590 → 535196468
 Bismarckstraße | from 23742590 → 30904064
 Goethestraße | from 23742590 → 23742909
@@ -851,11 +851,11 @@ Rollwagstraße | from 1561854854 → 24344921
 Rollwagstraße | from 1561854854 → 23743257
 Rollwagstraße | from 23743337 → 1558546008
 Allerheiligenstraße | from 23743337 → 26769594
-['Rollwagstraße', 'Rosenbergstraße'] | from 23743337 → 583327611
+['Rosenbergstraße', 'Rollwagstraße'] | from 23743337 → 583327611
 Rollwagstraße | from 1558546008 → 23743337
 Allerheiligenstraße | from 26769594 → 23743337
 Allerheiligenstraße | from 26769594 → 418464979
-['Rollwagstraße', 'Rosenbergstraße'] | from 583327611 → 23743337
+['Rosenbergstraße', 'Rollwagstraße'] | from 583327611 → 23743337
 Rosenbergstraße | from 583327611 → 246676251
 Bahnhofstraße | from 23824948 → 2313011120
 Bahnhofstraße | from 23824948 → 1558546045
@@ -1019,7 +1019,7 @@ Liebigstraße | from 24950707 → 32857329
 Liebigstraße | from 24950707 → 24952651
 Friedrich-Dürr-Straße | from 1323744213 → 24952655
 Friedrich-Dürr-Straße | from 1323744213 → 24950707
-['Bietigheimer Straße', 'Sternenfelser Straße'] | from 1323744213 → 24952656
+['Sternenfelser Straße', 'Bietigheimer Straße'] | from 1323744213 → 24952656
 Liebigstraße | from 32857329 → 1319335603
 Liebigstraße | from 32857329 → 24950707
 Bönnigheimer Straße | from 32857329 → 1306852108
@@ -1061,7 +1061,7 @@ Friedrich-Dürr-Straße | from 24952655 → 1322194346
 Freiligrathstraße | from 24952655 → 24952652
 Bietigheimer Straße | from 24952656 → 24952659
 Mundelsheimer Straße | from 24952656 → 24952655
-['Bietigheimer Straße', 'Sternenfelser Straße'] | from 24952656 → 1323744213
+['Sternenfelser Straße', 'Bietigheimer Straße'] | from 24952656 → 1323744213
 Walheimer Straße | from 1322194346 → 24952659
 Friedrich-Dürr-Straße | from 1322194346 → 24952661
 Friedrich-Dürr-Straße | from 1322194346 → 24952655
@@ -1131,7 +1131,7 @@ Heinrich-Hertz-Straße | from 1390735912 → 24957395
 Kreuzäckerstraße | from 1390735912 → 1390736010
 Kreuzäckerstraße | from 1390735912 → 1390735889
 Neckartalstraße | from 25103218 → 25103319
-['Wilhelm-Leuschner-Straße', 'Neckartalstraße'] | from 25103319 → 945643034
+['Neckartalstraße', 'Wilhelm-Leuschner-Straße'] | from 25103319 → 945643034
 Neckartalstraße | from 25103319 → 26787241
 Wilhelm-Leuschner-Straße | from 945643034 → 36670443
 Unnamed | from 945643034 → 945643035
@@ -1154,7 +1154,7 @@ Keilstraße | from 1549342252 → 25104170
 Keilstraße | from 1549342252 → 1549342256
 Friedrichstraße | from 1549334054 → 158703760
 Friedrichstraße | from 1549334054 → 25104125
-['August-Hornung-Straße', 'Sickingenstraße'] | from 1549334054 → 1549323360
+['Sickingenstraße', 'August-Hornung-Straße'] | from 1549334054 → 1549323360
 Grünewaldstraße | from 25104167 → 38908430
 Grünewaldstraße | from 25104167 → 25293384
 Heidelberger Straße | from 25104167 → 29722636
@@ -1273,7 +1273,7 @@ Winzerstraße | from 25231985 → 1172494525
 Cäcilienbrunnenstraße | from 25231985 → 26773946
 Rieslingstraße | from 25231985 → 1558997436
 Karl-Jäger-Straße | from 1172494525 → 1172494705
-['Winzerstraße', 'Trollingerstraße'] | from 1172494525 → 1172494505
+['Trollingerstraße', 'Winzerstraße'] | from 1172494525 → 1172494505
 Winzerstraße | from 1172494525 → 25231985
 Cäcilienbrunnenstraße | from 26773946 → 427964646
 Cäcilienbrunnenstraße | from 26773946 → 25231985
@@ -1326,8 +1326,8 @@ Südstraße | from 25232263 → 30650477
 Ludwig-Pfau-Straße | from 95092975 → 367693833
 Ludwig-Pfau-Straße | from 95092975 → 25232263
 Werderstraße | from 95092975 → 1236486137
-['Gabelsbergerstraße', 'Werderstraße'] | from 95092975 → 30650477
-['Gabelsbergerstraße', 'Werderstraße'] | from 30650477 → 95092975
+['Werderstraße', 'Gabelsbergerstraße'] | from 95092975 → 30650477
+['Werderstraße', 'Gabelsbergerstraße'] | from 30650477 → 95092975
 Silcherplatz | from 30650477 → 410375954
 Schmidbergstraße | from 25232279 → 29079311
 Schmidbergstraße | from 25232279 → 1252220862
@@ -1355,7 +1355,7 @@ Leiblstraße | from 1390736010 → 1255917620
 Kreuzäckerstraße | from 1390736010 → 1390735912
 Karl-Marx-Straße | from 25293342 → 25293348
 Karl-Marbach-Straße | from 25293342 → 26752752
-['Steinäckerstraße', 'Kastellstraße'] | from 25293342 → 26752798
+['Kastellstraße', 'Steinäckerstraße'] | from 25293342 → 26752798
 Steinäckerstraße | from 25293342 → 713844313
 Hans-Sachs-Straße | from 25293348 → 254306908
 Karl-Marx-Straße | from 25293348 → 25293342
@@ -1365,7 +1365,7 @@ August-Häußer-Straße | from 26752752 → 29051212
 Karl-Marbach-Straße | from 26752752 → 25293342
 August-Häußer-Straße | from 26752752 → 26752762
 Hans-Sachs-Straße | from 26752798 → 1551730885
-['Steinäckerstraße', 'Kastellstraße'] | from 26752798 → 25293342
+['Kastellstraße', 'Steinäckerstraße'] | from 26752798 → 25293342
 Hans-Sachs-Straße | from 26752798 → 3900621041
 Limesstraße | from 713844313 → 5610241292
 Steinäckerstraße | from 713844313 → 25293342
@@ -1397,7 +1397,7 @@ Landwehrstraße | from 94905103 → 29051219
 Landwehrstraße | from 94905103 → 25293379
 Landwehrstraße | from 94913291 → 25293379
 Sommerstraße | from 94913291 → 31271857
-['Landwehrstraße', 'Salzburger Straße'] | from 94913291 → 94905116
+['Salzburger Straße', 'Landwehrstraße'] | from 94913291 → 94905116
 Großgartacher Straße | from 1267408157 → 31137316
 Großgartacher Straße | from 1267408157 → 6276931003
 Grünewaldstraße | from 1267408157 → 25293384
@@ -1525,7 +1525,7 @@ Reinhold-Fyrnys-Straße | from 122286963 → 25554030
 Reinhold-Fyrnys-Straße | from 122286963 → 287739389
 Schafberg | from 122286963 → 122286931
 Schafberg | from 122286931 → 122286963
-['Heckenstraße', 'Fritz-Ulrich-Straße'] | from 122286931 → 274088223
+['Fritz-Ulrich-Straße', 'Heckenstraße'] | from 122286931 → 274088223
 Heckenstraße | from 122286931 → 25554030
 Heckenstraße | from 1559022369 → 25554030
 Heckenstraße | from 1559022369 → 25711035
@@ -1541,7 +1541,7 @@ Fritz-Ulrich-Straße | from 1559022317 → 25554056
 Rombachstraße | from 1559022317 → 25711086
 Martin-Niemöller-Straße | from 274088223 → 274088225
 Fritz-Ulrich-Straße | from 274088223 → 25554056
-['Heckenstraße', 'Fritz-Ulrich-Straße'] | from 274088223 → 122286931
+['Fritz-Ulrich-Straße', 'Heckenstraße'] | from 274088223 → 122286931
 Otto-Kirchheimer-Straße | from 25554071 → 31930637
 Fritz-Ulrich-Straße | from 25554071 → 25554077
 Fritz-Ulrich-Straße | from 25554071 → 94888572
@@ -1693,9 +1693,9 @@ Ludwigsburger Straße | from 26742481 → 26742483
 Ludwigsburger Straße | from 254991314 → 2579866936
 Ludwigsburger Straße | from 254991314 → 26742483
 Ludwigsburger Straße | from 26742483 → 254991314
-['Ludwigsburger Straße', 'Brackenheimer Straße'] | from 26742483 → 694707142
+['Brackenheimer Straße', 'Ludwigsburger Straße'] | from 26742483 → 694707142
 Brackenheimer Straße | from 694707142 → 1417061420
-['Ludwigsburger Straße', 'Brackenheimer Straße'] | from 694707142 → 26742483
+['Brackenheimer Straße', 'Ludwigsburger Straße'] | from 694707142 → 26742483
 Brackenheimer Straße | from 694707142 → 1855476520
 Karlsruher Straße | from 477431435 → 973953902
 Waiblingerstraße | from 26749750 → 268096194
@@ -1716,12 +1716,12 @@ Alexanderstraße | from 26749757 → 130135382
 Alexanderstraße | from 26749757 → 26749756
 Dittmarstraße | from 26749757 → 26749759
 Dittmarstraße | from 26749757 → 731435477
-['Daucherweg', 'Lerchenstraße'] | from 130135382 → 26749759
+['Lerchenstraße', 'Daucherweg'] | from 130135382 → 26749759
 Lerchenstraße | from 130135382 → 96034469
 Alexanderstraße | from 130135382 → 30503761
 Alexanderstraße | from 130135382 → 26749757
 Dittmarstraße | from 26749759 → 26749760
-['Daucherweg', 'Lerchenstraße'] | from 26749759 → 130135382
+['Lerchenstraße', 'Daucherweg'] | from 26749759 → 130135382
 Dittmarstraße | from 26749759 → 26749757
 Pfizerstraße | from 731435477 → 731435471
 Dittmarstraße | from 731435477 → 1558997470
@@ -1767,13 +1767,13 @@ Im Sternberg | from 445399410 → 60608978
 Trappensee | from 445399410 → 26755075
 Trappensee | from 445399410 → 26755087
 Schlizstraße | from 26755087 → 26769622
-['Schlizstraße', 'Karl-Wulle-Straße'] | from 26755087 → 94072311
+['Karl-Wulle-Straße', 'Schlizstraße'] | from 26755087 → 94072311
 Trappensee | from 26755087 → 445399410
 Rampachertal | from 26769622 → 94075469
 Schlizstraße | from 26769622 → 26755087
 Schlizstraße | from 26769622 → 1561447071
 Karl-Wulle-Straße | from 94072311 → 94072320
-['Schlizstraße', 'Karl-Wulle-Straße'] | from 94072311 → 26755087
+['Karl-Wulle-Straße', 'Schlizstraße'] | from 94072311 → 26755087
 Karl-Wulle-Straße | from 94072311 → 1132413080
 Weinsberger Straße | from 26769590 → 249176857
 Weinsberger Straße | from 249176857 → 96032777
@@ -1827,11 +1827,11 @@ Metzer Straße | from 1131214711 → 26779314
 Metzer Straße | from 1131214711 → 1558997455
 Karlstraße | from 26780631 → 249173792
 Allee | from 26780631 → 25185781
-['Karlstraße', 'Glockengießerhof'] | from 26780631 → 96076944
+['Glockengießerhof', 'Karlstraße'] | from 26780631 → 96076944
 Karlstraße | from 249173792 → 26780631
 Allee | from 249173792 → 249173793
 Karlstraße | from 249173792 → 96070463
-['Karlstraße', 'Glockengießerhof'] | from 96076944 → 26780631
+['Glockengießerhof', 'Karlstraße'] | from 96076944 → 26780631
 Brucknerstraße | from 26784627 → 1559022295
 Stockheimer Straße | from 26784627 → 25554102
 Klingenberger Straße | from 1558545850 → 24911578
@@ -1845,7 +1845,7 @@ Kanalstraße | from 36670436 → 3900621035
 Hans-Sachs-Straße | from 36670436 → 3900621041
 Albertistraße | from 26787281 → 522244855
 Lichtenbergerstraße | from 26787281 → 1030230366
-['Neckargartacher Brücke', 'Brückenstraße'] | from 26787281 → 1109896990
+['Brückenstraße', 'Neckargartacher Brücke'] | from 26787281 → 1109896990
 Lichtenbergerstraße | from 1030230366 → 357444270
 Lichtenbergerstraße | from 1030230366 → 26787281
 Ohmstraße | from 1030230366 → 428122803
@@ -1919,7 +1919,7 @@ Amsterdamer Straße | from 265072880 → 29047827
 Amsterdamer Straße | from 265072880 → 29047789
 Im Gutedel | from 29047836 → 81806446
 Steinweg | from 29047836 → 29047789
-['Am Mühlpfädle', 'Steinweg'] | from 29047836 → 266522974
+['Steinweg', 'Am Mühlpfädle'] | from 29047836 → 266522974
 Horkheimer Straße | from 291425970 → 29047789
 Horkheimer Straße | from 291425970 → 12551483808
 Am Mühlpfädle | from 29047825 → 81806446
@@ -1937,7 +1937,7 @@ Untere Kanalstraße | from 889314175 → 29047812
 Ernst-Bader-Straße | from 889314175 → 95000477
 Amsterdamer Straße | from 29047827 → 1560929275
 Hollandstraße | from 29047827 → 265072884
-['Untere Kanalstraße', 'Hollandstraße'] | from 29047827 → 29047812
+['Hollandstraße', 'Untere Kanalstraße'] | from 29047827 → 29047812
 Amsterdamer Straße | from 29047827 → 265072880
 Neckartalstraße | from 29047818 → 361529151
 Neckartalstraße | from 29047818 → 76704871
@@ -1972,7 +1972,7 @@ Hollandstraße | from 265072884 → 1600874629
 Heilbronner Weg | from 1600874614 → 81806438
 Hohenloher Straße | from 1600874614 → 1600874622
 Am Mühlpfädle | from 266522974 → 81806446
-['Am Mühlpfädle', 'Steinweg'] | from 266522974 → 29047836
+['Steinweg', 'Am Mühlpfädle'] | from 266522974 → 29047836
 Eisvogelweg | from 266522974 → 266522980
 Güldensteinstraße | from 29049593 → 615959296
 Güldensteinstraße | from 29049593 → 31021121
@@ -2020,7 +2020,7 @@ Klingenstraße | from 29049602 → 255723994
 Bundschuhstraße | from 255722958 → 29049602
 Klingenstraße | from 255722958 → 1561711232
 ['Am Melchiorsgraben', 'Bundschuhstraße'] | from 255722958 → 255722931
-['Klingenstraße', 'Deinenbachstraße'] | from 255723994 → 255723996
+['Deinenbachstraße', 'Klingenstraße'] | from 255723994 → 255723996
 Deinenbachstraße | from 255723994 → 655154934
 Klingenstraße | from 255723994 → 29049602
 Albert-Schäffler-Straße | from 36670904 → 29051212
@@ -2119,7 +2119,7 @@ Gutenbergstraße | from 96034469 → 1168653539
 Lerchenstraße | from 96034469 → 1561447030
 Lerchenstraße | from 96034469 → 130135382
 Alexanderstraße | from 30503761 → 30904064
-['Wollhausstraße', 'Friedhofstraße'] | from 30503761 → 308019348
+['Friedhofstraße', 'Wollhausstraße'] | from 30503761 → 308019348
 Wollhausstraße | from 30503761 → 29089758
 Alexanderstraße | from 30503761 → 130135382
 Wollhausstraße | from 760614743 → 29089758
@@ -2133,7 +2133,7 @@ Huttenstraße | from 29091655 → 1549323360
 Friedrichstraße | from 29091655 → 29091659
 Friedrichstraße | from 29091655 → 158703760
 Huttenstraße | from 1549323360 → 29091655
-['August-Hornung-Straße', 'Sickingenstraße'] | from 1549323360 → 1549334054
+['Sickingenstraße', 'August-Hornung-Straße'] | from 1549323360 → 1549334054
 Sickingenstraße | from 1549323360 → 29091659
 Längelterstraße | from 29091659 → 1554351883
 Sickingenstraße | from 29091659 → 1549323360
@@ -2277,13 +2277,13 @@ Faißtstraße | from 1558436890 → 29717974
 Faißtstraße | from 1558436890 → 1558436883
 Erlenbacher Straße | from 543612732 → 543612728
 Erlenbacher Straße | from 543612732 → 29717975
-['Wartbergstraße', 'Friedrich-Ebert-Straße'] | from 543612732 → 1431719916
+['Friedrich-Ebert-Straße', 'Wartbergstraße'] | from 543612732 → 1431719916
 Wartbergstraße | from 1431719916 → 29717979
-['Wartbergstraße', 'Friedrich-Ebert-Straße'] | from 1431719916 → 543612732
+['Friedrich-Ebert-Straße', 'Wartbergstraße'] | from 1431719916 → 543612732
 Rauchstraße | from 1431719916 → 1431719921
 Rauchstraße | from 29717988 → 1431719923
 Rauchstraße | from 29717988 → 1431732879
-['Hieberstraße', 'Schüblerstraße'] | from 29717988 → 1431732951
+['Schüblerstraße', 'Hieberstraße'] | from 29717988 → 1431732951
 Pfalzstraße | from 1431719923 → 94600787
 Rauchstraße | from 1431719923 → 1431719922
 Rauchstraße | from 1431719923 → 29717988
@@ -2414,7 +2414,7 @@ Bonfelder Straße | from 29723115 → 29723116
 Wilhelm-Flinspach-Straße | from 272047907 → 1116727096
 Brunnenstraße | from 272047907 → 29723115
 Brunnenstraße | from 272047907 → 1045135427
-['Mühlgasse', 'Mühlbergstraße'] | from 29723116 → 272040147
+['Mühlbergstraße', 'Mühlgasse'] | from 29723116 → 272040147
 Bonfelder Straße | from 29723116 → 1116772654
 Bonfelder Straße | from 29723116 → 29723115
 Forellenstraße | from 1116772654 → 1116772633
@@ -2447,15 +2447,15 @@ Leiblstraße | from 1255917620 → 29869942
 Tischbeinstraße | from 1255917620 → 1397560956
 Hansjakobstraße | from 29962346 → 905204563
 Jägerhausstraße | from 29962346 → 197737564
-['Jägerhausstraße', 'Jägerhaussteige', 'Militärwegbrücke', 'Donnbronner Straße'] | from 29962346 → 29962480
+['Militärwegbrücke', 'Jägerhausstraße', 'Donnbronner Straße', 'Jägerhaussteige'] | from 29962346 → 29962480
 Hansjakobstraße | from 905204563 → 29962346
 ['Hansjakobstraße', 'Isolde-Kurz-Straße'] | from 905204563 → 197737475
 August-Lämmle-Straße | from 905204563 → 197737475
 Jägerhausstraße | from 197737564 → 11150211508
 Jägerhausstraße | from 197737564 → 29962346
 Hermann-Hesse-Straße | from 197737564 → 197737671
-['Donnbronner Straße', 'Jägerhaussteige', 'Militärwegbrücke', 'Jägerhausstraße'] | from 29962480 → 29962346
-['Neckarhalde', 'Knorrstraße'] | from 245964069 → 30040057
+['Jägerhausstraße', 'Militärwegbrücke', 'Donnbronner Straße', 'Jägerhaussteige'] | from 29962480 → 29962346
+['Knorrstraße', 'Neckarhalde'] | from 245964069 → 30040057
 Schoettlestraße | from 1304947201 → 4394184073
 Schoettlestraße | from 1304947201 → 30040057
 Schoettlestraße | from 1304947201 → 334480255
@@ -2470,7 +2470,7 @@ Im Wannental | from 30050059 → 266684367
 Im Wannental | from 30050059 → 520053646
 Friedrich-Naumann-Straße | from 30050059 → 133123247
 Im Wannental | from 520053646 → 30050059
-['Von-Witzleben-Straße', 'Virchowstraße'] | from 133123247 → 95048538
+['Virchowstraße', 'Von-Witzleben-Straße'] | from 133123247 → 95048538
 Friedrich-Naumann-Straße | from 133123247 → 331850113
 Friedrich-Naumann-Straße | from 133123247 → 30050059
 Gutbrodweg | from 266683072 → 1031041134
@@ -2514,7 +2514,7 @@ Badener Straße | from 319815083 → 319815086
 Badener Straße | from 319815083 → 319829200
 Badener Straße | from 319815083 → 30050088
 Moltkestraße | from 2272655276 → 30050290
-['Moltkestraße', 'Bismarckstraße'] | from 2272655276 → 1022056770
+['Bismarckstraße', 'Moltkestraße'] | from 2272655276 → 1022056770
 Kernerstraße | from 2272655276 → 30904064
 Adelberger Straße | from 471884877 → 289467306
 Moltkestraße | from 471884877 → 471884876
@@ -2567,7 +2567,7 @@ Römerstraße | from 81733909 → 30407107
 Römerstraße | from 81733909 → 271406775
 Sachsenäckerstraße | from 81733909 → 270504421
 Friedhofstraße | from 308019348 → 1561447061
-['Wollhausstraße', 'Friedhofstraße'] | from 308019348 → 30503761
+['Friedhofstraße', 'Wollhausstraße'] | from 308019348 → 30503761
 Karl-Betz-Straße | from 308019348 → 308019367
 Neckartalstraße | from 30647261 → 712768175
 Neckartalstraße | from 30647261 → 31091588
@@ -2594,7 +2594,7 @@ Im Näpfle | from 441869879 → 30647292
 Böllinger Straße | from 31091303 → 30647292
 Böllinger Straße | from 31091303 → 32457838
 Böllinger Straße | from 30647321 → 32457838
-['Mosbacher Straße', 'Wimpfener Straße'] | from 30647321 → 31091303
+['Wimpfener Straße', 'Mosbacher Straße'] | from 30647321 → 31091303
 Obereisesheimer Straße | from 30647321 → 32457843
 Wimpfener Straße | from 30647321 → 924412085
 Böllinger Straße | from 32457838 → 30647321
@@ -2663,10 +2663,10 @@ Schweinsbergstraße | from 30904057 → 1558997436
 Köhlstraße | from 30904057 → 30904039
 Schweinsbergstraße | from 30904057 → 31312200
 Bismarckstraße | from 1022056770 → 30904064
-['Moltkestraße', 'Bismarckstraße'] | from 1022056770 → 2272655276
+['Bismarckstraße', 'Moltkestraße'] | from 1022056770 → 2272655276
 Bismarckstraße | from 1022056770 → 1561447061
 ['Kramstraße', 'Deutschhofstraße'] | from 30906936 → 3076536393
-['Gerberstraße', 'Kramstraße'] | from 3076536393 → 3076536394
+['Kramstraße', 'Gerberstraße'] | from 3076536393 → 3076536394
 ['Kramstraße', 'Deutschhofstraße'] | from 3076536393 → 30906936
 Gaswerkstraße | from 30906954 → 8375325591
 Etzelstraße | from 30906954 → 428174359
@@ -2679,7 +2679,7 @@ Etzelstraße | from 428174359 → 5210206947
 Weipertstraße | from 428174359 → 428174362
 Weipertstraße | from 428174359 → 5012388627
 Christophstraße | from 535245632 → 32683124
-['Salzstraße', 'Gaswerkstraße'] | from 535245632 → 2903641950
+['Gaswerkstraße', 'Salzstraße'] | from 535245632 → 2903641950
 Gaswerkstraße | from 535245632 → 30906954
 Gaswerkstraße | from 30906959 → 8375325591
 ['Lessingstraße', 'Rückertstraße'] | from 32640380 → 32679856
@@ -2810,14 +2810,14 @@ Güglinger Straße | from 1554352245 → 31142557
 Güglinger Straße | from 1554352245 → 1554352215
 Bruchsaler Straße | from 31142592 → 94618098
 Bruchsaler Straße | from 31142592 → 31273120
-['Kraichgauplatz', 'Pfaffenhofener Straße'] | from 31142592 → 1149450377
+['Pfaffenhofener Straße', 'Kraichgauplatz'] | from 31142592 → 1149450377
 Bruchsaler Straße | from 94618098 → 31142592
 Auf der Schanz | from 94618098 → 32457016
 Bruchsaler Straße | from 94618098 → 31142614
 Güglinger Straße | from 31273120 → 1554352245
 Bruchsaler Straße | from 31273120 → 31142592
 Bruchsaler Straße | from 31273120 → 1149450358
-['Kraichgauplatz', 'Pfaffenhofener Straße'] | from 1149450377 → 31142592
+['Pfaffenhofener Straße', 'Kraichgauplatz'] | from 1149450377 → 31142592
 Sinsheimer Straße | from 1149450377 → 1149450358
 Sinsheimer Straße | from 1149450377 → 251355082
 Bruchsaler Straße | from 31142614 → 31142608
@@ -2869,14 +2869,14 @@ Traubenstraße | from 1558997414 → 1142543005
 Wildecker Straße | from 1558997414 → 1558997389
 Traubenstraße | from 31164364 → 469734895
 Clußstraße | from 31164364 → 427974512
-['Wüstenroter Straße', 'Traubenstraße'] | from 31164364 → 1558997410
+['Traubenstraße', 'Wüstenroter Straße'] | from 31164364 → 1558997410
 Traubenstraße | from 469734895 → 31164364
 Clußstraße | from 427974512 → 31164364
 Im Stahlbühl | from 427974512 → 427974447
 Im Stahlbühl | from 427974512 → 1558997410
 Im Stahlbühl | from 1558997410 → 427974512
 Im Stahlbühl | from 1558997410 → 872536390
-['Wüstenroter Straße', 'Traubenstraße'] | from 1558997410 → 31164364
+['Traubenstraße', 'Wüstenroter Straße'] | from 1558997410 → 31164364
 Stockheimer Straße | from 31224365 → 26784627
 Heuchelbergstraße | from 31224365 → 94630138
 Heuchelbergstraße | from 94630138 → 31224366
@@ -2888,17 +2888,17 @@ Heuchelbergstraße | from 31224366 → 31224369
 Heuchelbergstraße | from 31224369 → 31224366
 Heinrich-Bächler-Straße | from 31308430 → 31308580
 Siebenmorgenweg | from 31308430 → 31308580
-['Christian-Leichtle-Straße', 'Albert-Wagner-Straße'] | from 31308430 → 31308509
+['Albert-Wagner-Straße', 'Christian-Leichtle-Straße'] | from 31308430 → 31308509
 ['Siebenmorgenweg', 'Neipperger Straße'] | from 31308430 → 31224366
 Georg-Vogel-Straße | from 31227329 → 31227350
 Unnamed | from 31227329 → 989198370
 Georg-Vogel-Straße | from 31227350 → 31227329
-['Georg-Vogel-Straße', 'Im Neckargarten'] | from 31227350 → 1524393194
+['Im Neckargarten', 'Georg-Vogel-Straße'] | from 31227350 → 1524393194
 Georg-Vogel-Straße | from 31227350 → 1072721318
 Unnamed | from 989198370 → 21778718
 Unnamed | from 989198370 → 21778712
 Im Neckargarten | from 1524393194 → 1524667210
-['Georg-Vogel-Straße', 'Im Neckargarten'] | from 1524393194 → 31227350
+['Im Neckargarten', 'Georg-Vogel-Straße'] | from 1524393194 → 31227350
 Georg-Vogel-Straße | from 1072721318 → 712768183
 Georg-Vogel-Straße | from 1072721318 → 31227350
 Robert-Bosch-Straße | from 31268143 → 245962367
@@ -2947,7 +2947,7 @@ Siebenmorgenweg | from 31308580 → 31308430
 Siebenmorgenweg | from 31308580 → 140339598
 Albert-Wagner-Straße | from 31308509 → 31308580
 Albert-Wagner-Straße | from 31308509 → 747463944
-['Christian-Leichtle-Straße', 'Albert-Wagner-Straße'] | from 31308509 → 31308430
+['Albert-Wagner-Straße', 'Christian-Leichtle-Straße'] | from 31308509 → 31308430
 Albert-Wagner-Straße | from 747463944 → 31308509
 Hetensbacher Straße | from 140339598 → 140339610
 Wittumhalde | from 140339598 → 264349237
@@ -3040,11 +3040,11 @@ Wannenäckerstraße | from 31386517 → 249857438
 Wannenäckerstraße | from 31386517 → 31386493
 Pfaffenstraße | from 31386517 → 249858532
 Pfaffenstraße | from 31386571 → 31386517
-['Pfaffenstraße', 'Alexander-Baumann-Straße'] | from 31386571 → 249857438
+['Alexander-Baumann-Straße', 'Pfaffenstraße'] | from 31386571 → 249857438
 Franz-Reichle-Straße | from 31386571 → 31386530
 Wannenäckerstraße | from 249857438 → 31386517
 Alexander-Baumann-Straße | from 249857438 → 249857442
-['Pfaffenstraße', 'Alexander-Baumann-Straße'] | from 249857438 → 31386571
+['Alexander-Baumann-Straße', 'Pfaffenstraße'] | from 249857438 → 31386571
 Pfaffenstraße | from 249858532 → 668588039
 Hanns-Bauer-Straße | from 249858532 → 668588037
 Pfaffenstraße | from 249858532 → 31386517
@@ -3140,7 +3140,7 @@ Reußweg | from 1431752271 → 32548885
 Siegfried-Gumbel-Straße | from 1431752271 → 1431752273
 Im Breitenloch | from 1431752271 → 1431752272
 Im Breitenloch | from 1431752271 → 1558436903
-['Kübelstraße', 'Hans-Schweiner-Straße'] | from 721563318 → 543612728
+['Hans-Schweiner-Straße', 'Kübelstraße'] | from 721563318 → 543612728
 Kübelstraße | from 721563318 → 32548885
 Hans-Schweiner-Straße | from 721563318 → 1558436890
 Kübelstraße | from 1431752270 → 32548885
@@ -3254,23 +3254,23 @@ Hintertorstraße | from 95149332 → 667751133
 Hintertorstraße | from 95149332 → 32860567
 Schafhausstraße | from 95149332 → 95158373
 Schnepfbrunnenstraße | from 272058785 → 32860567
-['Schnepfbrunnenstraße', 'Stauchenstraße'] | from 272058785 → 250135679
+['Stauchenstraße', 'Schnepfbrunnenstraße'] | from 272058785 → 250135679
 Kirchstraße | from 272058785 → 835352797
 Hintertorstraße | from 32860643 → 423010518
 Hintertorstraße | from 423010518 → 32860643
 Hintertorstraße | from 423010518 → 667751126
-['Lückenstraße', 'Im Krautgarten'] | from 423010518 → 667751126
-['Schafhausstraße', 'Hofäcker'] | from 32860645 → 667751133
+['Im Krautgarten', 'Lückenstraße'] | from 423010518 → 667751126
+['Hofäcker', 'Schafhausstraße'] | from 32860645 → 667751133
 Hintertorstraße | from 667751133 → 95158375
 Hintertorstraße | from 667751133 → 95149332
-['Schafhausstraße', 'Hofäcker'] | from 667751133 → 32860645
+['Hofäcker', 'Schafhausstraße'] | from 667751133 → 32860645
 Hipfelhofer Straße | from 32860671 → 95158375
 Hintertorstraße | from 95158375 → 667751133
 Hipfelhofer Straße | from 95158375 → 32860671
 Hintertorstraße | from 95158375 → 667751126
 Burgundenstraße | from 32863171 → 250138573
 Würzburger Straße | from 32863171 → 250138594
-['Frankenbacher Straße', 'Würzburger Straße'] | from 32863171 → 81756021
+['Würzburger Straße', 'Frankenbacher Straße'] | from 32863171 → 81756021
 Teutonenstraße | from 250138573 → 250138572
 Burgundenstraße | from 250138573 → 250138572
 Burgundenstraße | from 250138573 → 32863171
@@ -3338,7 +3338,7 @@ Am Gesundbrunnen | from 1728178633 → 1035719697
 Wimpfener Weg | from 32973044 → 269102822
 Hausener Straße | from 32973044 → 32973046
 Hausener Straße | from 32973044 → 9418829520
-['Eichhäuser Straße', 'Wimpfener Weg'] | from 269102822 → 310114255
+['Wimpfener Weg', 'Eichhäuser Straße'] | from 269102822 → 310114255
 Schloßstraße | from 269102822 → 310114584
 Wimpfener Weg | from 269102822 → 32973044
 Schloßstraße | from 269102822 → 421781705
@@ -3391,7 +3391,7 @@ Hossäckerweg | from 33070859 → 257736733
 Talheimer Straße | from 33070859 → 33070871
 Talheimer Straße | from 33070859 → 886868107
 Hossäckerweg | from 257736733 → 33070859
-['Hossäckerweg', 'Albert-Debold-Straße'] | from 257736733 → 257736738
+['Albert-Debold-Straße', 'Hossäckerweg'] | from 257736733 → 257736738
 Jakob-Ramm-Straße | from 257736733 → 264649791
 Talheimer Straße | from 33070871 → 33070859
 Talheimer Straße | from 33070871 → 33070886
@@ -3475,7 +3475,7 @@ Am Melchiorsgraben | from 255722931 → 34567595
 Quellenstraße | from 255722931 → 614419674
 ['Deinenbachstraße', 'Hauptstraße'] | from 655154934 → 34567597
 Deinenbachstraße | from 655154934 → 255723994
-['Deinenbachstraße', 'Görresstraße'] | from 655154934 → 255725030
+['Görresstraße', 'Deinenbachstraße'] | from 655154934 → 255725030
 Parkstraße | from 60700717 → 95061575
 Hermann-Wolf-Straße | from 60700717 → 432387967
 Hermann-Wolf-Straße | from 60700717 → 34567597
@@ -3571,7 +3571,7 @@ Heidenrain | from 38927726 → 82615200
 Grünewaldstraße | from 38927726 → 2775389423
 Grünewaldstraße | from 38927726 → 441777005
 Jahnheide | from 2775389423 → 2775389420
-['Grünewaldstraße', 'Jahnheide'] | from 2775389423 → 714044375
+['Jahnheide', 'Grünewaldstraße'] | from 2775389423 → 714044375
 Grünewaldstraße | from 2775389423 → 38927726
 Landwehrstraße | from 94626426 → 441777005
 Landwehrstraße | from 94626426 → 38927805
@@ -3584,7 +3584,7 @@ Fürfelder Straße | from 94905087 → 94905095
 ['Münzerstraße', 'Salzburger Straße'] | from 94905087 → 94905116
 Riedstraße | from 41318327 → 12657650541
 Riedstraße | from 12657650541 → 41318327
-['Öhringer Straße', 'Haller Straße'] | from 12657650541 → 1556915843
+['Haller Straße', 'Öhringer Straße'] | from 12657650541 → 1556915843
 Haller Straße | from 12657650541 → 1561854865
 Kreuzenstraße | from 41318714 → 361202065
 Kreuzenstraße | from 41318714 → 361202085
@@ -3717,7 +3717,7 @@ Im Kreuzgrund | from 60941836 → 60941838
 Im Kreuzgrund | from 60941836 → 60941835
 Starenweg | from 60953677 → 94978065
 Starenweg | from 60953677 → 60941836
-['Eulenweg', 'Sperberweg'] | from 60953677 → 60953671
+['Sperberweg', 'Eulenweg'] | from 60953677 → 60953671
 Hofweg | from 60941838 → 94958496
 Im Kreuzgrund | from 60941838 → 94978069
 Im Kreuzgrund | from 60941838 → 60941836
@@ -3769,7 +3769,7 @@ Im Kreuzgrund | from 94953676 → 94954349
 Ulmenweg | from 94953676 → 60951964
 Distelfinkweg | from 60953671 → 94978065
 Eulenweg | from 60953671 → 60953672
-['Eulenweg', 'Sperberweg'] | from 60953671 → 60953677
+['Sperberweg', 'Eulenweg'] | from 60953671 → 60953677
 Distelfinkweg | from 94978065 → 60953671
 Distelfinkweg | from 94978065 → 94978069
 Starenweg | from 94978065 → 60953677
@@ -3784,7 +3784,7 @@ Starenweg | from 60953679 → 94970030
 Starenweg | from 60953679 → 94978065
 Finkenweg | from 60953679 → 60953672
 Hiplerweg | from 254504951 → 12657650556
-['Eichelberger Weg', 'Krugstraße'] | from 254504951 → 268094766
+['Krugstraße', 'Eichelberger Weg'] | from 254504951 → 268094766
 Krugstraße | from 254504951 → 60954457
 Eichelberger Weg | from 254504961 → 254504958
 Armsündersteige | from 254504961 → 60954489
@@ -3819,11 +3819,11 @@ In der Steig | from 81723882 → 452168541
 In der Steig | from 81723897 → 81723882
 Scheidemannstraße | from 81723897 → 81723901
 In der Steig | from 81723897 → 81723887
-['Rainlesstraße', 'Weinbergstraße'] | from 81723887 → 81723901
+['Weinbergstraße', 'Rainlesstraße'] | from 81723887 → 81723901
 In der Steig | from 81723887 → 418938561
 In der Steig | from 81723887 → 81723897
 Scheidemannstraße | from 81723901 → 81723897
-['Rainlesstraße', 'Weinbergstraße'] | from 81723901 → 81723887
+['Weinbergstraße', 'Rainlesstraße'] | from 81723901 → 81723887
 Rainlesstraße | from 81723901 → 81723904
 In der Steig | from 418938561 → 81723887
 Römerstraße | from 271406775 → 2945724281
@@ -3850,7 +3850,7 @@ Sachsenäckerstraße | from 81733945 → 281072612
 Stettiner Straße | from 281071810 → 270503907
 Stettiner Straße | from 281071810 → 81733945
 Stettiner Straße | from 602618386 → 281071810
-['Liebermannstraße', 'Sachsenäckerstraße'] | from 602618386 → 81734035
+['Sachsenäckerstraße', 'Liebermannstraße'] | from 602618386 → 81734035
 Sachsenäckerstraße | from 602618386 → 81733945
 Lindenstraße | from 81733982 → 430124222
 Leinbachstraße | from 81733982 → 1014721479
@@ -3887,7 +3887,7 @@ Kollwitzstraße | from 430124224 → 430124226
 Dürerstraße | from 81734035 → 270503907
 Liebermannstraße | from 81734035 → 430124224
 Breslauer Straße | from 81734035 → 270504413
-['Liebermannstraße', 'Sachsenäckerstraße'] | from 81734035 → 602618386
+['Sachsenäckerstraße', 'Liebermannstraße'] | from 81734035 → 602618386
 Dürerstraße | from 270503907 → 81734035
 Stettiner Straße | from 270503907 → 281071810
 ['Dürerstraße', 'Schongauerstraße'] | from 270503907 → 270503874
@@ -3907,11 +3907,11 @@ Melanchthonweg | from 266874477 → 271409893
 Melanchthonweg | from 266874477 → 81748586
 Brünnlesstraße | from 266874477 → 81745043
 Melanchthonweg | from 81748586 → 266874477
-['Widmannstal', 'Widmannstraße'] | from 81748586 → 429215523
+['Widmannstraße', 'Widmannstal'] | from 81748586 → 429215523
 Widmannstraße | from 81748586 → 451759325
 Widmannstal | from 429215523 → 81748622
 Widmannstal | from 429215523 → 81748622
-['Widmannstal', 'Widmannstraße'] | from 429215523 → 81748586
+['Widmannstraße', 'Widmannstal'] | from 429215523 → 81748586
 Widmannstal | from 81748622 → 429215523
 Widmannstal | from 81748622 → 429215523
 Widmannstal | from 81748622 → 81755998
@@ -3921,7 +3921,7 @@ Widmannstal | from 81755998 → 81748622
 Widmannstal | from 81748628 → 81755998
 Frankenbacher Straße | from 428803439 → 81756021
 Frankenbacher Straße | from 428803439 → 1738947572
-['Hegelstraße', 'Leonhard-Frank-Straße'] | from 428803439 → 428803447
+['Leonhard-Frank-Straße', 'Hegelstraße'] | from 428803439 → 428803447
 Heilbronner Weg | from 81806438 → 266522979
 Heilbronner Weg | from 81806438 → 1600874614
 Pirolweg | from 81806438 → 81806446
@@ -3964,7 +3964,7 @@ Dinkelsbühler Straße | from 90465708 → 90465707
 Dinkelsbühler Straße | from 90465708 → 90465707
 Dinkelsbühler Straße | from 90465708 → 90465723
 Im Gemmingstal | from 1067949253 → 1067949146
-['Sandbergsteige', 'Nürnberger Straße'] | from 1067949253 → 95034779
+['Nürnberger Straße', 'Sandbergsteige'] | from 1067949253 → 95034779
 Im Gemmingstal | from 1067949253 → 90473324
 Maihaldenstraße | from 583331040 → 91716498
 Maihaldenstraße | from 583331040 → 1556688083
@@ -4107,7 +4107,7 @@ Fürfelder Straße | from 94905095 → 94905087
 Kocherstraße | from 94905095 → 94905116
 Kocherstraße | from 94905116 → 94905095
 ['Münzerstraße', 'Salzburger Straße'] | from 94905116 → 94905087
-['Landwehrstraße', 'Salzburger Straße'] | from 94905116 → 94913291
+['Salzburger Straße', 'Landwehrstraße'] | from 94905116 → 94913291
 Hans-Sachs-Straße | from 713583697 → 254306908
 Fasanenweg | from 713583697 → 5610241292
 Neckargartacher Straße | from 713583697 → 94905110
@@ -4115,11 +4115,11 @@ Neckargartacher Straße | from 713583697 → 713844313
 Holunderweg | from 248060126 → 94922478
 Holunderweg | from 248060126 → 248060126
 Platanenstraße | from 94944265 → 94925287
-['Platanenstraße', 'Erlenweg'] | from 94944265 → 94952249
+['Erlenweg', 'Platanenstraße'] | from 94944265 → 94952249
 Eschenweg | from 94944265 → 94964218
 Im Kreuzgrund | from 94952249 → 94964218
 Im Kreuzgrund | from 94952249 → 94952253
-['Platanenstraße', 'Erlenweg'] | from 94952249 → 94944265
+['Erlenweg', 'Platanenstraße'] | from 94952249 → 94944265
 Im Kreuzgrund | from 94964218 → 353895486
 Im Kreuzgrund | from 94964218 → 94952249
 Birkenhof | from 94964218 → 94958491
@@ -4155,7 +4155,7 @@ Im Gemmingstal | from 1067949146 → 1067949253
 Fichtestraße | from 1067949146 → 133108294
 Im Gemmingstal | from 1067949146 → 95034872
 Mandrystraße | from 95048538 → 95048540
-['Von-Witzleben-Straße', 'Virchowstraße'] | from 95048538 → 133123247
+['Virchowstraße', 'Von-Witzleben-Straße'] | from 95048538 → 133123247
 Virchowstraße | from 95048538 → 95048539
 Mandrystraße | from 95048540 → 95048538
 Behringstraße | from 95048540 → 95048541
@@ -4215,7 +4215,7 @@ Kaiserslauterner Straße | from 1042255065 → 95146694
 Leintalstraße | from 1055806680 → 1556688040
 Schafhausstraße | from 1055806680 → 95158373
 Leintalstraße | from 1055806680 → 95147953
-['Siedlungsstraße', 'Dörnlestraße'] | from 1536878700 → 423011104
+['Dörnlestraße', 'Siedlungsstraße'] | from 1536878700 → 423011104
 Leintalstraße | from 1536878700 → 95147953
 Saarbrückener Straße | from 1536878700 → 1536878695
 Saarbrückener Straße | from 1536878700 → 451699807
@@ -4247,7 +4247,7 @@ Gartenstraße | from 96032777 → 534967483
 Weinsberger Straße | from 96032777 → 249173821
 Gartenstraße | from 96032777 → 96030115
 Maybachstraße | from 96032049 → 96032046
-['Dammstraße', 'Nordstraße'] | from 96032049 → 96031808
+['Nordstraße', 'Dammstraße'] | from 96032049 → 96031808
 Dammstraße | from 96032049 → 96030150
 Dammstraße | from 684617609 → 96030152
 Sichererstraße | from 96032046 → 1558436876
@@ -4360,7 +4360,7 @@ Lohtorstraße | from 96086354 → 96086358
 Lohtorstraße | from 96086354 → 96081296
 Erhardgasse | from 96086354 → 289742773
 Kaiserstraße | from 3076536394 → 266689036
-['Gerberstraße', 'Kramstraße'] | from 3076536394 → 3076536393
+['Kramstraße', 'Gerberstraße'] | from 3076536394 → 3076536393
 Gerberstraße | from 3076536394 → 96081296
 Lohtorstraße | from 96084663 → 96086358
 Lammgasse | from 96084663 → 289742774
@@ -4396,7 +4396,7 @@ Zückwolfstraße | from 96925296 → 96925300
 Hirschstraße | from 96925296 → 96925289
 Salzstraße | from 98081637 → 2903641950
 Salzstraße | from 2903641950 → 428174350
-['Salzstraße', 'Gaswerkstraße'] | from 2903641950 → 535245632
+['Gaswerkstraße', 'Salzstraße'] | from 2903641950 → 535245632
 Reinhold-Fyrnys-Straße | from 287739389 → 122286963
 Wacksstraße | from 126308298 → 126308319
 Olgastraße | from 126308298 → 973953874
@@ -4413,7 +4413,7 @@ Badstraße | from 126319790 → 1558545842
 Theresienstraße | from 126319790 → 973953846
 Badstraße | from 126319790 → 773264714
 Badstraße | from 1558545842 → 126319790
-['Badstraße', 'Viehweide'] | from 1558545842 → 518063307
+['Viehweide', 'Badstraße'] | from 1558545842 → 518063307
 Theresienstraße | from 973953846 → 973953841
 Karlsruher Straße | from 973953846 → 973953817
 Karlsruher Straße | from 126432022 → 21509874
@@ -4423,11 +4423,11 @@ Kauffmannstraße | from 316571443 → 130134553
 Kauffmannstraße | from 316571443 → 343206190
 Scherweg | from 130426242 → 130426232
 Scherweg | from 130426242 → 735546299
-['Härlestraße', 'Roseggerstraße'] | from 130426242 → 194450095
+['Roseggerstraße', 'Härlestraße'] | from 130426242 → 194450095
 Härlestraße | from 130426242 → 130426255
 Scherweg | from 735546299 → 130426242
 Oststraße | from 194450095 → 21754744
-['Härlestraße', 'Roseggerstraße'] | from 194450095 → 130426242
+['Roseggerstraße', 'Härlestraße'] | from 194450095 → 130426242
 Bruckmannstraße | from 535189101 → 130426255
 Oststraße | from 535189101 → 194450095
 ['Rathenauplatz', 'Charlottenstraße'] | from 395526645 → 21740300
@@ -4494,14 +4494,14 @@ Flammerweg | from 425659612 → 151207455
 Kübelstraße | from 425659612 → 1431752270
 ['Kübelstraße', 'Im Breitenloch'] | from 425659612 → 151207889
 Kraemerstraße | from 151207889 → 1711224515
-['Kübelstraße', 'Im Breitenloch'] | from 151207889 → 425659612
+['Im Breitenloch', 'Kübelstraße'] | from 151207889 → 425659612
 Im Breitenloch | from 151207889 → 151207455
 Kraemerstraße | from 1711224515 → 1711224515
 Kraemerstraße | from 1711224515 → 1711224515
 Kraemerstraße | from 1711224515 → 151207889
 Im Haselter | from 158698693 → 1554351957
 Eduard-Hilger-Straße | from 158703762 → 158703760
-['Eduard-Hilger-Straße', 'Riegrafstraße'] | from 158703762 → 158703762
+['Riegrafstraße', 'Eduard-Hilger-Straße'] | from 158703762 → 158703762
 ['Eduard-Hilger-Straße', 'Riegrafstraße'] | from 158703762 → 158703762
 Leibnizstraße | from 158707427 → 1554351883
 Leibnizstraße | from 158707427 → 1554351923
@@ -4560,13 +4560,13 @@ Unnamed | from 203702112 → 1109896986
 Unnamed | from 203702112 → 524693819
 Neckargartacher Brücke | from 1109896986 → 1109896989
 Unnamed | from 1109896986 → 1109896993
-['Neckargartacher Brücke', 'Brückenstraße'] | from 524693819 → 770692766
+['Brückenstraße', 'Neckargartacher Brücke'] | from 524693819 → 770692766
 Am Förstle | from 224570646 → 291408206
 Unterlandstraße | from 224570646 → 272035952
 Unterlandstraße | from 224570646 → 1141013832
 Am Förstle | from 291408206 → 224570646
 Panoramastraße | from 291408206 → 291408267
-['Am Förstle', 'Hahnenäckerstraße'] | from 291408206 → 291408296
+['Hahnenäckerstraße', 'Am Förstle'] | from 291408206 → 291408296
 Lilienthalstraße | from 1141013832 → 289195673
 Unterlandstraße | from 1141013832 → 423804296
 Unterlandstraße | from 1141013832 → 224570646
@@ -4598,11 +4598,11 @@ Schießhausstraße | from 249138233 → 249138662
 Schießhausstraße | from 249138662 → 249138233
 Schießhausstraße | from 249138662 → 249138667
 Schießhausstraße | from 249138662 → 249138234
-['Alfred-Finkbeiner-Straße', 'Schützenstraße'] | from 249138234 → 8375223046
+['Schützenstraße', 'Alfred-Finkbeiner-Straße'] | from 249138234 → 8375223046
 Schützenstraße | from 249138234 → 973992448
 Schießhausstraße | from 249138234 → 249138662
 Theresienstraße | from 8375223046 → 26787320
-['Alfred-Finkbeiner-Straße', 'Schützenstraße'] | from 8375223046 → 249138234
+['Schützenstraße', 'Alfred-Finkbeiner-Straße'] | from 8375223046 → 249138234
 Herrmannstraße | from 973992448 → 973992372
 Schützenstraße | from 973992448 → 249138234
 Weststraße | from 973992448 → 807095608
@@ -4693,7 +4693,7 @@ Pfaffenstraße | from 561046441 → 668588039
 Pfaffenstraße | from 561046441 → 249862426
 Am Rotbach | from 250135672 → 250135679
 Stauchenstraße | from 250135679 → 250135683
-['Schnepfbrunnenstraße', 'Stauchenstraße'] | from 250135679 → 272058785
+['Stauchenstraße', 'Schnepfbrunnenstraße'] | from 250135679 → 272058785
 Am Rotbach | from 250135679 → 250135672
 Neuwiesenstraße | from 250135683 → 250135682
 Stauchenstraße | from 250135683 → 250135679
@@ -4774,12 +4774,12 @@ Goerdelerstraße | from 599983784 → 1145613972
 Goerdelerstraße | from 599983784 → 251356045
 Goerdelerstraße | from 599983784 → 599983833
 Stresemannstraße | from 493175328 → 251356059
-['Stresemannstraße', 'Goerdelerstraße'] | from 493175328 → 1145613972
+['Goerdelerstraße', 'Stresemannstraße'] | from 493175328 → 1145613972
 Stresemannstraße | from 493175328 → 493175193
 Stresemannstraße | from 493174897 → 251356059
 Vogelsangstraße | from 364358501 → 254306908
 Eichelberger Weg | from 268094766 → 254504958
-['Eichelberger Weg', 'Krugstraße'] | from 268094766 → 254504951
+['Krugstraße', 'Eichelberger Weg'] | from 268094766 → 254504951
 Heuholzer Weg | from 268094766 → 268094771
 Eichelberger Weg | from 254504958 → 268094766
 Eichelberger Weg | from 254504958 → 254504961
@@ -4849,7 +4849,7 @@ Kelterweg | from 263763433 → 257736719
 Bei dem Schloss | from 881323047 → 257736722
 Albert-Debold-Straße | from 257736738 → 257736743
 Albert-Debold-Straße | from 257736738 → 257736743
-['Hossäckerweg', 'Albert-Debold-Straße'] | from 257736738 → 257736733
+['Albert-Debold-Straße', 'Hossäckerweg'] | from 257736738 → 257736733
 Jakob-Ramm-Straße | from 264649791 → 257736733
 Albert-Debold-Straße | from 257736743 → 278415664
 Albert-Debold-Straße | from 257736743 → 257736738
@@ -5076,14 +5076,14 @@ Jörg-Ratgeb-Platz | from 1374092451 → 1374092467
 Jörg-Ratgeb-Platz | from 1374092451 → 267137738
 Jörg-Ratgeb-Platz | from 1374092451 → 267137739
 Stockportstraße | from 267137739 → 1369147095
-['Port-Talbot-Straße', 'Jörg-Ratgeb-Platz'] | from 267137739 → 1372733125
+['Jörg-Ratgeb-Platz', 'Port-Talbot-Straße'] | from 267137739 → 1372733125
 Jörg-Ratgeb-Platz | from 267137739 → 1374092451
 Stockportstraße | from 1369147095 → 1369147084
 Stockportstraße | from 1369147095 → 267137739
 Stockportstraße | from 1369147095 → 1369147093
-['Port-Talbot-Straße', 'Jörg-Ratgeb-Platz'] | from 1372733125 → 267137739
+['Jörg-Ratgeb-Platz', 'Port-Talbot-Straße'] | from 1372733125 → 267137739
 Port-Talbot-Straße | from 1372733125 → 1372733118
-['Frankfurt-Oder-Straße', 'Jörg-Ratgeb-Platz'] | from 1372733125 → 1372733124
+['Jörg-Ratgeb-Platz', 'Frankfurt-Oder-Straße'] | from 1372733125 → 1372733124
 Horkheimer Straße | from 267477337 → 12551497160
 Horkheimer Straße | from 267477337 → 267477337
 Horkheimer Straße | from 267477337 → 267477337
@@ -5141,7 +5141,7 @@ Rosenstraße | from 948192168 → 948191805
 Siedlungsweg | from 948192168 → 271409891
 Siedlungsweg | from 948192168 → 271409876
 Siedlungsweg | from 271409891 → 948192168
-['Tulpenstraße', 'Rosenstraße'] | from 271409891 → 948191805
+['Rosenstraße', 'Tulpenstraße'] | from 271409891 → 948191805
 Siedlungsweg | from 271409891 → 271409893
 Melanchthonweg | from 435581866 → 271409893
 Weberstraße | from 506588003 → 271410566
@@ -5199,7 +5199,7 @@ Jakob-Saame-Straße | from 3410471699 → 428803447
 Ludwigstraße | from 1738947572 → 271412196
 Frankenbacher Straße | from 1738947572 → 428803439
 Frankenbacher Straße | from 1738947572 → 435601406
-['Hegelstraße', 'Leonhard-Frank-Straße'] | from 428803447 → 428803439
+['Leonhard-Frank-Straße', 'Hegelstraße'] | from 428803447 → 428803439
 Leonhard-Frank-Straße | from 428803447 → 271412196
 Jakob-Saame-Straße | from 428803447 → 3410471699
 Hermann-Löns-Straße | from 271412203 → 919559293
@@ -5253,7 +5253,7 @@ Wilhelm-Flinspach-Straße | from 1116727099 → 272047824
 Allmendweg | from 1116727099 → 1116727081
 Wilhelm-Flinspach-Straße | from 1116727096 → 272047907
 Wilhelm-Flinspach-Straße | from 1116727096 → 1116727140
-['Im Dachlet', 'Im Hinterstahl'] | from 1116727096 → 1116727140
+['Im Hinterstahl', 'Im Dachlet'] | from 1116727096 → 1116727140
 Im Dachlet | from 1116727096 → 1116727121
 Brunnenstraße | from 1045135427 → 272047907
 Ziegeleistraße | from 272049582 → 272049584
@@ -5284,7 +5284,7 @@ An der Ziegelhütte | from 272475550 → 272475515
 Keltenstraße | from 272475550 → 272475558
 Keltenstraße | from 1136215200 → 272475550
 Dobrudschastraße | from 1136215200 → 725549084
-['Mühläcker', 'Keltenstraße'] | from 1136215200 → 432369138
+['Keltenstraße', 'Mühläcker'] | from 1136215200 → 432369138
 Unnamed | from 1502266744 → 9252812060
 Unnamed | from 534218360 → 1502266744
 Neckartalstraße | from 534218360 → 273437131
@@ -5524,7 +5524,7 @@ Dr.-Hoffmann-Straße | from 310114248 → 310114243
 Gustav-Lohmiller-Straße | from 310114248 → 368003051
 Dr.-Hoffmann-Straße | from 310114248 → 421781669
 Falltorstraße | from 367984358 → 310114243
-['Falltorstraße', 'Eichhäuser Straße'] | from 367984358 → 367986236
+['Eichhäuser Straße', 'Falltorstraße'] | from 367984358 → 367986236
 Sepp-Herberger-Straße | from 367984358 → 367986236
 Falltorstraße | from 421781704 → 310114243
 Deutschritterstraße | from 421781704 → 367978287
@@ -5604,7 +5604,7 @@ Rosenbergstraße | from 335768109 → 395825873
 Rosenbergstraße | from 335768109 → 1561711680
 Südstraße | from 335768109 → 24957389
 Rosenbergstraße | from 395825873 → 335768109
-['Weststraße', 'Südstraße'] | from 395825873 → 973953852
+['Südstraße', 'Weststraße'] | from 395825873 → 973953852
 Rosenbergstraße | from 395825873 → 350052783
 Georg-Vogel-Straße | from 559421384 → 712768139
 Neckartalstraße | from 559421384 → 26787243
@@ -5658,7 +5658,7 @@ Solothurner Straße | from 1236486142 → 367697523
 Werderstraße | from 1236486142 → 1236486137
 Alter Mühlweg | from 1568177541 → 367972677
 Paul-Gerhardt-Straße | from 367979741 → 422994030
-['Paul-Gerhardt-Straße', 'Attichäckerstraße'] | from 367979741 → 421781703
+['Attichäckerstraße', 'Paul-Gerhardt-Straße'] | from 367979741 → 421781703
 Albert-Schweitzer-Straße | from 367979741 → 367979754
 Albert-Schweitzer-Straße | from 367979754 → 367979741
 Dr.-Hoffmann-Straße | from 368003040 → 421781678
@@ -5736,10 +5736,10 @@ Otto-Wels-Straße | from 421775060 → 421775069
 Adolf-Grimme-Straße | from 421775102 → 421775043
 Elise-Heß-Straße | from 705037157 → 421775049
 Kehrhüttenstraße | from 421775064 → 421775069
-['Kehrhüttenstraße', 'Matthias-Erzberger-Straße'] | from 421775064 → 421775069
+['Matthias-Erzberger-Straße', 'Kehrhüttenstraße'] | from 421775064 → 421775069
 Kehrhüttenstraße | from 421775064 → 421775060
 Kehrhüttenstraße | from 421775069 → 421775064
-['Kehrhüttenstraße', 'Matthias-Erzberger-Straße'] | from 421775069 → 421775064
+['Matthias-Erzberger-Straße', 'Kehrhüttenstraße'] | from 421775069 → 421775064
 Otto-Wels-Straße | from 421775069 → 421775060
 Im Kleinfeldle | from 421781717 → 421781711
 Schulbrunnenstraße | from 421781717 → 421781722
@@ -5980,7 +5980,7 @@ Länderlesstraße | from 5073094927 → 431014492
 Bernhäusle | from 5073094927 → 5073094931
 Länderlesstraße | from 5073094927 → 5073094931
 Bernhäusle | from 5073094318 → 431014492
-['Mühläcker', 'Keltenstraße'] | from 432369138 → 1136215200
+['Keltenstraße', 'Mühläcker'] | from 432369138 → 1136215200
 Hermann-Wolf-Straße | from 432387964 → 432387967
 Karl-Wüst-Straße | from 432825378 → 356916622
 Unnamed | from 432825378 → 626332526
@@ -6003,7 +6003,7 @@ Hasengasse | from 436620161 → 1765552291
 Hasengasse | from 436620161 → 442694563
 Jahnheide | from 440132893 → 714044375
 Jahnheide | from 714044375 → 2775389420
-['Grünewaldstraße', 'Jahnheide'] | from 714044375 → 2775389423
+['Jahnheide', 'Grünewaldstraße'] | from 714044375 → 2775389423
 Jahnheide | from 714044375 → 440132893
 Blumenstraße | from 445027979 → 1159668611
 Am Sülmertor | from 535245618 → 719434344
@@ -6023,7 +6023,7 @@ John-F.-Kennedy-Straße | from 1255490940 → 485083472
 Turmstraße | from 2909890644 → 2909890654
 Turmstraße | from 2909890644 → 619199095
 Stresemannstraße | from 493175193 → 493175328
-['Stresemannstraße', 'Goerdelerstraße'] | from 1145613972 → 493175328
+['Goerdelerstraße', 'Stresemannstraße'] | from 1145613972 → 493175328
 Goerdelerstraße | from 1145613972 → 599983784
 Goerdelerstraße | from 1145613972 → 599985169
 Poststraße | from 496060372 → 523888858
@@ -6116,7 +6116,7 @@ Neckarsulmer Straße | from 943241375 → 21509927
 Binswanger Straße | from 540170247 → 529834555
 Erlenbacher Straße | from 543612728 → 1558436903
 Erlenbacher Straße | from 543612728 → 543612732
-['Kübelstraße', 'Hans-Schweiner-Straße'] | from 543612728 → 721563318
+['Hans-Schweiner-Straße', 'Kübelstraße'] | from 543612728 → 721563318
 Erlenbacher Straße | from 1558436903 → 543612728
 Im Breitenloch | from 1558436903 → 1431752271
 Erlenbacher Straße | from 1558436903 → 1431752281
@@ -6349,7 +6349,7 @@ Neckarsulmer Straße | from 1026381909 → 21730283
 Brüggemannstraße | from 1026434150 → 1026434174
 Austraße | from 1026434150 → 33973496
 Austraße | from 1026434174 → 2619421323
-['Industriebrücke', 'Brüggemannstraße'] | from 1026434174 → 943241358
+['Brüggemannstraße', 'Industriebrücke'] | from 1026434174 → 943241358
 Unnamed | from 1129513368 → 1027985820
 Jägerhausstraße | from 1129513368 → 1027985786
 Jägerhausstraße | from 1027985820 → 1129513455
@@ -6399,12 +6399,12 @@ Neckargartacher Brücke | from 1109896978 → 1109896957
 Unnamed | from 1109896978 → 1109896950
 Allmendweg | from 1116727081 → 1116727099
 Wilhelm-Flinspach-Straße | from 1116727140 → 1116727096
-['Im Dachlet', 'Im Hinterstahl'] | from 1116727140 → 1116727096
+['Im Hinterstahl', 'Im Dachlet'] | from 1116727140 → 1116727096
 Wilhelm-Flinspach-Straße | from 1116727140 → 1116727099
 Im Dachlet | from 1116727121 → 1116727096
 Wiesenweg | from 1116772616 → 1116772636
 Forellenstraße | from 1116772633 → 1116772654
-['Bahnhofstraße', 'Kurt-Schumacher-Platz'] | from 1119003042 → 266689030
+['Kurt-Schumacher-Platz', 'Bahnhofstraße'] | from 1119003042 → 266689030
 Reinbotstraße | from 1120026785 → 1120026795
 Reinbotstraße | from 1120026795 → 1120026794
 Reinbotstraße | from 1120026795 → 1120026794
@@ -6414,7 +6414,7 @@ Reinbotstraße | from 1120026794 → 1120026795
 Reinbotstraße | from 1120026794 → 1120026809
 Traubenstraße | from 1221436731 → 1142543005
 Trollingerstraße | from 1172494505 → 1172494575
-['Winzerstraße', 'Trollingerstraße'] | from 1172494505 → 1172494525
+['Trollingerstraße', 'Winzerstraße'] | from 1172494505 → 1172494525
 Habrechtstraße | from 1172494505 → 1172494705
 Trollingerstraße | from 1172494575 → 1172494505
 Schwabstraße | from 1182683229 → 1180986854
@@ -6512,14 +6512,14 @@ Frankenbacher Straße | from 1425198142 → 1524667298
 Schaeuffelenstraße | from 2909890654 → 2923278980
 Mannheimer Straße | from 2909890654 → 534967478
 Tscherningstraße | from 1431701935 → 1431701941
-['Karl-Reibel-Ring', 'Käferflugstraße'] | from 1431701935 → 2290383790
+['Käferflugstraße', 'Karl-Reibel-Ring'] | from 1431701935 → 2290383790
 Käferflugstraße | from 1431701935 → 1431752376
 Tscherningstraße | from 1431701941 → 1431701969
 Tscherningstraße | from 1431701941 → 1431701935
 Millerstraße | from 1431701941 → 1431712489
 Karl-Reibel-Ring | from 2290383790 → 2290383790
 Karl-Reibel-Ring | from 2290383790 → 2290383790
-['Karl-Reibel-Ring', 'Käferflugstraße'] | from 2290383790 → 1431701935
+['Käferflugstraße', 'Karl-Reibel-Ring'] | from 2290383790 → 1431701935
 Kirschengartenstraße | from 1431701969 → 6259633191
 Kirschengartenstraße | from 1431701969 → 1431701968
 Mettelbachstraße | from 1431701969 → 1431702015

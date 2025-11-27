@@ -61,22 +61,34 @@ def export_roads_to_text(G, file_name="roads.txt"):
     print(f"Road list exported → {file_name}")
 
 def remove_roads_by_name(G):
-    target = input("\nEnter the NAME of the road to close: ").strip()
+    # Ask how many streets the user wants to remove
+    try:
+        n = int(input("\nHow many streets do you want to close? "))
+    except:
+        print("Invalid input. Using 1 street.")
+        n = 1
 
+    streets_to_remove = []
+    for i in range(n):
+        street_name = input(f"Enter the NAME of street {i+1}: ").strip()
+        streets_to_remove.append(street_name)
+
+    # Collect edges to remove
     edges_to_remove = []
+    for target in streets_to_remove:
+        for u, v, d in G.edges(data=True):
+            name = d.get("name", "Unnamed")
+            if isinstance(name, list):
+                match = any(target.lower() in n.lower() for n in name)
+            else:
+                match = target.lower() in name.lower()
 
-    for u, v, d in G.edges(data=True):
-        name = d.get("name", "Unnamed")
-        if isinstance(name, list):
-            match = any(target.lower() in n.lower() for n in name)
-        else:
-            match = target.lower() in name.lower()
+            if match:
+                edges_to_remove.append((u, v))
 
-        if match:
-            edges_to_remove.append((u, v))
-
+    # Remove edges
     if not edges_to_remove:
-        print("⚠ No road matched that name.")
+        print("⚠ No matching roads found.")
         return
 
     print("\nRemoving the following edges:")
@@ -84,6 +96,7 @@ def remove_roads_by_name(G):
         print(f" - {u} → {v}")
         if G.has_edge(u, v):
             G.remove_edge(u, v)
+
 
 
 # ================================================================
