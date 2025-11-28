@@ -97,6 +97,48 @@ def remove_roads_by_name(G):
         if G.has_edge(u, v):
             G.remove_edge(u, v)
 
+# ================================================================
+# HELPER — generate OD pairs from user-specified streets
+# ================================================================
+
+def get_user_defined_od(G):
+    """
+    Returns a list of (origin_node, destination_node) pairs
+    based on user input of street names.
+    """
+    edges_by_name = {}
+    for u, v, data in G.edges(data=True):
+        name = data.get("name", "Unnamed")
+        if isinstance(name, list):
+            for n in name:
+                edges_by_name.setdefault(n.lower(), []).append((u, v))
+        else:
+            edges_by_name.setdefault(name.lower(), []).append((u, v))
+
+    od_pairs = []
+    try:
+        n_pairs = int(input("How many OD pairs to generate? "))
+    except:
+        n_pairs = 1
+
+    for i in range(n_pairs):
+        origin_street = input(f"Enter origin street name for pair {i+1}: ").strip().lower()
+        dest_street   = input(f"Enter destination street name for pair {i+1}: ").strip().lower()
+
+        if origin_street not in edges_by_name:
+            print(f"⚠ No edges found for {origin_street}, skipping this pair.")
+            continue
+        if dest_street not in edges_by_name:
+            print(f"⚠ No edges found for {dest_street}, skipping this pair.")
+            continue
+
+        # Pick random nodes along the chosen street edges
+        origin_edge = random.choice(edges_by_name[origin_street])
+        dest_edge   = random.choice(edges_by_name[dest_street])
+
+        od_pairs.append((origin_edge[0], dest_edge[1]))
+
+    return od_pairs
 
 
 # ================================================================
@@ -137,19 +179,24 @@ def build_world_from_graph(G, name):
             jam_density=0.2,
         )
 
-    # simple OD demand
-    ys = [data["y"] for _, data in G.nodes(data=True)]
-    north = [n for n, d in G.nodes(data=True) if d["y"] > max(ys) - 2000]
-    south = [n for n, d in G.nodes(data=True) if d["y"] < min(ys) + 2000]
+    # Ask user for OD pairs
+    od_pairs = get_user_defined_od(G)
 
-    for _ in range(40):
-        W.adddemand(
-            node_map[random.choice(north)],
-            node_map[random.choice(south)],
-            0, 1800, 0.03,
-        )
+    if not od_pairs:
+        # Fallback: random OD pairs (old behavior)
+        print("No valid OD pairs provided. Generating random OD pairs.")
+        ys = [data["y"] for _, data in G.nodes(data=True)]
+        north = [n for n, d in G.nodes(data=True) if d["y"] > max(ys) - 2000]
+        south = [n for n, d in G.nodes(data=True) if d["y"] < min(ys) + 2000]
+        for _ in range(40):
+            od_pairs.append((random.choice(north), random.choice(south)))
+
+    # Add demands
+    for origin, dest in od_pairs:
+        W.adddemand(node_map[origin], node_map[dest], 0, 1800, 0.03)
 
     return W
+
 
 
 # ================================================================
